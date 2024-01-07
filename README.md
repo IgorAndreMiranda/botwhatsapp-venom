@@ -16,7 +16,6 @@
   <img alt="Order" title="Order" src="./assets/order.png" />
   Address
   <img alt="Address" title="Address" src="./assets/address.png" />
-  <img alt="Bill" title="Bill" src="./assets/bill.png" />g" />
   Bill
   <img alt="Bill" title="Bill" src="./assets/bill.png" />
   Assistant
