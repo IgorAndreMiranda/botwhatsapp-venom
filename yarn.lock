@@ -3928,7 +3928,7 @@ v8-compile-cache-lib@^3.0.1:
   resolved "https://registry.npmjs.org/v8-compile-cache-lib/-/v8-compile-cache-lib-3.0.1.tgz"
   integrity sha512-wa7YjyUGfNZngI/vtK0UHAN+lgDCxBPCylVXGp0zu59Fz5aiGtNXaq3DhIov063MorB+VfufLh3JlF2KdTK3xg==
 
-venom-bot@4.3.7:
+venom-bot@^4.3.7:
   version "4.3.7"
   resolved "https://registry.npmjs.org/venom-bot/-/venom-bot-4.3.7.tgz"
   integrity sha512-mWCp6rpABiO6D+IgHeGvwzO/+HqsVu7YZg5buQLQW5GnadzbLhIh56h3JloCumaubbiDQDo5+Eu/sDnqp1hMnQ==
