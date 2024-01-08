@@ -1,7 +1,5 @@
 # Whatsapp Bot with VENOM-BOT
-
 ## Descrição do Projeto
-
 <p align="center"></p>
 <h1 align="center">
     <a href="https://nodejs.org/en/">🔗 NodeJS</a>
